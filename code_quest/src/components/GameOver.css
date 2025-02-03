@@ -1,0 +1,23 @@
+#gameover {
+    text-align: center;
+    max-width: 500px;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+
+#gameover h2,
+#gameover p {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #4ec994;
+}
+
+#gameover p {
+    color: #fff;
+}
+
+#gameover img {
+    margin: 2rem;
+    height: 400px;
+}
