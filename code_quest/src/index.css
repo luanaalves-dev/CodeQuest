@@ -25,6 +25,7 @@ button {
     rgba(87,204,153,100) 0%,
     rgba(159, 227, 174,100) 100%
   );
+  color: #fff;
   border-radius: 3rem;
   border: 2px solid #fff;
 }
